@@ -26,7 +26,8 @@ td {
 }
 
 area{
-    outline: none;
+    /*outline: none;*/
+    outline-color: orange;
 }
 
 .membergr {
