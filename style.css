@@ -9,14 +9,9 @@
 
 .content-info {
 	font-size: 19px;
-}
-
-table {
-	width: 100%;
-}
-
-td {
-	width: 65%;
+	display: inline-block;
+	margin-left: 100px;
+	position: center;
 }
 
 #imggr {
@@ -147,6 +142,7 @@ li.member_menu_button {
 	background: rgba(255,165,0,.6);
 	position: relative;
 	text-align: center;
+	display: inline-block;
 }
 
 .name_team {
